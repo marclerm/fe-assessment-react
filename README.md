@@ -1,11 +1,15 @@
 # Getting Started with Financial Healt App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Styles and controls are designed based on [Chakra UI](https://chakra-ui.com/)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
+Styles and controls are designed based on [Chakra UI](https://chakra-ui.com/).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Runs the package script to install the required node packages used in the application.
 
 ### `npm start`
 
